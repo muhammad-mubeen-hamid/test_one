@@ -1,1 +1,0 @@
-const wix = "added some wix logic";
